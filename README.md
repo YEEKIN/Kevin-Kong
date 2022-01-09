@@ -1,2 +1,2 @@
-## View my CV from [Here](https://YEEKIN.github.io/Kevin-Kong/)
-<!-- # [中文简历](https://1105042987.github.io/Sufer_Qin/index-cn.html) -->
+### Hi there, this is Kevin Kong 🔥
+### View my Curriculum Vitae page by clicking on this [link](https://YEEKIN.github.io/Kevin-Kong/)
